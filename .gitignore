@@ -1,0 +1,4 @@
+venv
+.idea
+cicd-buzz
+__pycache__
