@@ -1,7 +1,8 @@
 import unittest
 #from unittest import TestCase
 
-from buzz import generator
+import generator
+
 
 class TestGenerator(unittest.TestCase):
 
